@@ -2,8 +2,8 @@
 /**
  * Fires an event after the last repeated event finishes.  Useful for resize & similar events.
  *
- * @version v1.0
  * @author  AMJones <am@jonesiscoding.com>
+ * @version v1.0
  * @returns {jQuery}
  */
 ;(function($){
