@@ -1,15 +1,15 @@
 {
-  "name": "exactquery/following",
-  "description": "jQuery plugin to perform actions following the last time an event happens.  Useful for resize events.",
+  "name": "exactquery/afterwards",
+  "description": "jQuery plugin to perform actions after the last time an event happens.  Useful for resize events.",
   "keywords": [
       "debounce",
       "after",
       "jquery",
       "js",
       "resize",
-      "following"
+      "afterwards"
   ],
-  "homepage": "https://www.github.com/exactquery/following",
+  "homepage": "https://www.github.com/exactquery/afterwards",
   "version": "1.0",
   "authors": [
       {

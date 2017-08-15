@@ -1,15 +1,15 @@
 
 /*!
- * Fires an event following the last repeated event.  Useful for resize & similar events.
+ * Fires an event after the last repeated event.  Useful for resize & similar events.
  *
- * @version ExactQuery Following v1.0
- * @license http://github.com/exactquery/following/LICENSE
+ * @version ExactQuery Afterwards v1.0
+ * @license http://github.com/exactquery/afterwards/LICENSE
  * @author  AMJones <am@jonesiscoding.com>
  * @returns {jQuery}
  */
 ;(function($){
   $.fn.extend({
-    following: function( eventName, callback, options ) {
+    afterwards: function( eventName, callback, options ) {
 
       var plugin = this;
       var $plugin = $(plugin);
