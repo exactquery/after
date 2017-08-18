@@ -2,7 +2,7 @@
 /*!
  * Fires an event after the last repeated event.  Useful for resize & similar events.
  *
- * @version ExactQuery Afterwards v1.0
+ * @version ExactQuery Afterwards v1.2.1
  * @license http://github.com/exactquery/afterwards/LICENSE
  * @author  AMJones <am@jonesiscoding.com>
  * @returns {jQuery}
